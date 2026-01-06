@@ -30,7 +30,7 @@ I created this project was while learning JavaScript and DOM manipulation as par
 3. Enjoy playing the drum sounds 🎶
 
 ## Live Demo
-()
+http://drumkit.io/
 
 ---
 
